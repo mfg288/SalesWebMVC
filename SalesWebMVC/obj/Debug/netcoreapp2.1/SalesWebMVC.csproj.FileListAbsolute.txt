@@ -1,0 +1,15 @@
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.deps.json
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.runtimeconfig.json
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.runtimeconfig.dev.json
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.dll
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorAssemblyInfo.cache
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorAssemblyInfo.cs
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorTargetAssemblyInfo.cache
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.dll
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
+C:\Users\mfg2_\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
